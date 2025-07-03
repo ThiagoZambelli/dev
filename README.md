@@ -144,4 +144,4 @@ Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
 
 Para dúvidas ou sugestões, entre em contato através do meu perfil do GitHub.
 
----
+---# Scribo
